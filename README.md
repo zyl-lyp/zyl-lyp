@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zyl-lyp
+- 👋 Hi, I’m Liangyp
 - 👀 I’m interested in ML for protein design
 - 🌱 I’m currently learning deep learing
 - 💞️ I’m looking to collaborate on someone in passion
